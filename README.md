@@ -2,7 +2,7 @@
 - 👀 I’m interested in bringing fascinating insights through data
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on any Machin learning Models
-- 📫 How to reach me : mandipatt@usc.edu
+- 📫 How to reach me : mandipat@usc.edu
 - ⚡ Fun fact: I am Mechanical Engineer too. 
 
 <!---
